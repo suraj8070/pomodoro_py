@@ -1,7 +1,9 @@
 #_____________________________________________
 # README.md
-# This is an attempt to imitate tomato-timer
+# This is an attempt to imitate pomodoro-timer
 # created on 08 April 2022 by suraj8070 !!
+#
+#https://en.wikipedia.org/wiki/Pomodoro_Technique 
 #
 # Type the below command in a terminal 
 # to install package that provides beep sound
