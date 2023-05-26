@@ -11,16 +11,16 @@
  sudo apt install sox
 
 ### Usage
-Run the below command in your python environment:
-\npython tomato_srj.py
-\nprompt expects either "start" or "break" from user
-1. start
-: Typing start will begin the timer and beeps after 25 minutes.
-2. break
-: Typing break will start a break of 5 minute interval.
+ Run the below command in your python environment:
+ python tomato_srj.py
+ prompt expects either "start" or "break" from user
+ 1. start
+ : Typing start will begin the timer and beeps after 25 minutes.
+ 2. break
+ : Typing break will start a break of 5 minute interval.
 
-\n\nIn both the above options, screen will be cleared and program exits after 3 beeps.
-\nWe have to manually run again to restart.
+ In both the above options, screen will be cleared and program exits after 3 beeps.
+ We have to manually run again to restart.
 
 ### References:
  for timer:-> https://stackoverflow.com/questions/18406165/creating-a-timer-in-
